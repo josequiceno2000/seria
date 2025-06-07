@@ -1,4 +1,4 @@
-title_card = """
+TITLE_CARD = """
 ██╗  ██╗██╗ ██████╗ ██╗  ██╗███████╗██████╗     ██╗██╗██╗    ██╗      ██████╗ ██╗    ██╗███████╗██████╗ 
 ██║  ██║██║██╔════╝ ██║  ██║██╔════╝██╔══██╗    ██║██║██║    ██║     ██╔═══██╗██║    ██║██╔════╝██╔══██╗
 ███████║██║██║  ███╗███████║█████╗  ██████╔╝    ██║██║██║    ██║     ██║   ██║██║ █╗ ██║█████╗  ██████╔╝
@@ -14,3 +14,10 @@ title_card = """
 ╚══════╝ ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝    ╚═╝╚═╝╚═╝    ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                                                                         
 """
+
+def intro():
+    print(TITLE_CARD)
+    print("A bitterly addictive game of popularity ranking based on Instagram follower counts.".center(100))
+    print()
+    print("The data is based on Instagram counts from June of 2025.".center(100))
+    classic_or_beat_the_clock()
