@@ -23,7 +23,7 @@
 4. ~~Let player choose between classic or beat the clock mode~~ ✔
 5. ~~Set up game based on specifications~~ ✔
 6. ~~Return appropriate value(s?)~~ ✔
-7. Add type hints and docstring
+7. ~~Add type hints and docstring~~ ✔
 8. ~~Connect to main.py~~ ✔
 ### beat_the_clock_or_classic
 1. ~~Create function to ask user to choose mode~~ ✔
