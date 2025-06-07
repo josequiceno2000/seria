@@ -10,8 +10,8 @@
 3. ~~Input real data~~ ✔
 
 ## Intro
-0. Create intro.py
-1. Get ASCII title art
+0. ~~Create intro.py~~ ✔
+1. ~~Get ASCII title art~~ ✔
 ### Intro Function
 1. Create intro function
 2. Display title art 
