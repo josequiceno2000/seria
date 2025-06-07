@@ -9,6 +9,10 @@
 2. ~~Add data (list of dictionaries with name, follower_count, description, and country)~~ ✔
 3. ~~Input real data~~ ✔
 
+## Main
+### clock
+1. Add default function for clock 
+
 ## Intro
 0. ~~Create intro.py~~ ✔
 1. ~~Get ASCII title art~~ ✔
@@ -21,6 +25,16 @@
 6. Return appropriate value(s?)
 7. Add type hints and docstring
 8. ~~Connect to main.py~~ ✔
-9. Test function
 ### beat_the_clock_or_classic
 1. Create function to ask user to choose mode
+2. Set countdown time based on user choice
+
+
+## User Class
+1. ~~Create User class~~ ✔
+2. ~~Add name and score and high_score fields~~ ✔
+3. ~~Add method to record run~~ ✔
+4. ~~Add method to increase score~~ ✔
+5. ~~Connect to main.py~~ ✔
+
+

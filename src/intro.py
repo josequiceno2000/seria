@@ -15,6 +15,9 @@ TITLE_CARD = """
                                                                                                         
 """
 
+def classic_or_beat_the_clock():
+    pass
+
 def intro():
     print(TITLE_CARD)
     print("A bitterly addictive game of popularity ranking based on Instagram follower counts.".center(100))
