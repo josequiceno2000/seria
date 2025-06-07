@@ -3,7 +3,7 @@ data = [
         'name': 'Instagram (Official Account)',
         'follower_count': 690_000_000,
         'description': 'official Instagram account',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Cristiano Ronaldo',
@@ -21,49 +21,49 @@ data = [
         'name': 'Selena Gomez',
         'follower_count': 419_000_000,
         'description': 'singer, actress, and businesswoman',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Dwayne "The Rock" Johnson',
         'follower_count': 393_000_000,
         'description': 'actor, producer, and former professional wrestler',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Kylie Jenner',
         'follower_count': 393_000_000,
         'description': 'media personality',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Ariana Grande',
         'follower_count': 375_000_000,
         'description': 'singer and actress',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Kim Kardashian',
         'follower_count': 356_000_000,
         'description': 'media personality',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Beyoncé',
         'follower_count': 311_000_000,
         'description': 'singer',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Khloé Kardashian',
         'follower_count': 302_000_000,
         'description': 'reality television personality',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Nike',
         'follower_count': 300_000_000,
         'description': 'multinational corporation',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Justin Bieber',
@@ -75,19 +75,19 @@ data = [
         'name': 'Kendall Jenner',
         'follower_count': 287_000_000,
         'description': 'fashion model and television personality',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Taylor Swift',
         'follower_count': 281_000_000,
         'description': 'singer-songwriter',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'National Geographic',
         'follower_count': 278_000_000,
         'description': 'renowned magazine',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Virat Kohli',
@@ -99,7 +99,7 @@ data = [
         'name': 'Jennifer Lopez',
         'follower_count': 248_000_000,
         'description': 'singer, actress, and dancer',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Neymar Jr.',
@@ -117,31 +117,31 @@ data = [
         'name': 'Kourtney Kardashian',
         'follower_count': 218_000_000,
         'description': 'reality television personality',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Miley Cyrus',
         'follower_count': 212_000_000,
         'description': 'singer, songwriter, and actress',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Katy Perry',
         'follower_count': 204_000_000,
         'description': 'singer',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Zendaya',
         'follower_count': 178_000_000,
         'description': 'actress',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Kevin Hart',
         'follower_count': 177_000_000,
         'description': 'comedian',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Real Madrid C.F.',
@@ -153,25 +153,25 @@ data = [
         'name': 'Cardi B',
         'follower_count': 163_000_000,
         'description': 'rapper',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'LeBron James',
         'follower_count': 159_000_000,
         'description': 'basketball player',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Chris Brown',
         'follower_count': 144_000_000,
         'description': 'singer, songwriter, and dancer',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'NASA',
         'follower_count': 98_000_000,
         'description': 'scientific body',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'FC Barcelona',
@@ -183,7 +183,7 @@ data = [
         'name': 'Shaquille O\'Neal',
         'follower_count': 35_000_000,
         'description': 'basketball player',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Gordon Ramsay',
@@ -195,25 +195,25 @@ data = [
         'name': 'Netflix',
         'follower_count': 300_000_000,
         'description': 'streaming service',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Humans of New York',
         'follower_count': 18_000_000,
         'description': 'popular photoblog ',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'MrBeast',
         'follower_count': 74_000_000,
         'description': 'YouTuber',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Discovery',
         'follower_count': 60_000_000,
-        'description': 'wildlife, science, and adventure content.',
-        'country': 'United States'
+        'description': 'wildlife, science, and adventure content',
+        'country': 'the United States'
     },
     {
         'name': 'Priyanka Chopra Jonas',
@@ -225,19 +225,19 @@ data = [
         'name': 'Charli D\'Amelio',
         'follower_count': 49_000_000,
         'description': 'social media personality',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Marvel Studios',
         'follower_count': 72_000_000,
         'description': 'comic book universe',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Tasty (BuzzFeed Food)',
         'follower_count': 42_000_000,
         'description': 'food network',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'BBC News',
@@ -255,13 +255,13 @@ data = [
         'name': 'UNICEF',
         'follower_count': 10_000_000,
         'description': 'charity',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'The New York Times',
         'follower_count': 19_000_000,
         'description': 'newspaper',
-        'country': 'United States'
+        'country': 'the United States'
     },
     {
         'name': 'Red Bull',
