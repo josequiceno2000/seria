@@ -9,10 +9,6 @@
 2. ~~Add data (list of dictionaries with name, follower_count, description, and country)~~ ✔
 3. ~~Input real data~~ ✔
 
-## Main
-### clock
-1. Add default function for clock 
-
 ## Intro
 0. ~~Create intro.py~~ ✔
 1. ~~Get ASCII title art~~ ✔
@@ -29,7 +25,6 @@
 1. ~~Create function to ask user to choose mode~~ ✔
 2. ~~Set countdown time based on user choice~~ ✔ 
 
-
 ## User Class
 1. ~~Create User class~~ ✔
 2. ~~Add name and score and high_score fields~~ ✔
@@ -37,4 +32,9 @@
 4. ~~Add method to increase score~~ ✔
 5. ~~Connect to main.py~~ ✔
 
+## Round
+### clock
+0. ~~Create round.py file~~ ✔
+1. ~~Add default function for clock~~ ✔
+2. ~~Connect to main.py~~ ✔
 

@@ -1,16 +1,12 @@
 from intro import intro
 from user import User
+from round import countdown
+
+
 
 def main():
-    print(intro())
-    new_user = User("Michael")
-    print(User.high_scores)
-    print(new_user.name)
-    print(new_user.score)
-
-    new_user.increase_score()
-    new_user.record_run()
-    print(User.high_scores)
+    countdown_time = intro()
+    countdown(countdown_time)
     
 
 if __name__ == "__main__":
