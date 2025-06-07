@@ -5,8 +5,9 @@ from round import countdown
 
 
 def main():
-    countdown_time = intro()
-    countdown(countdown_time)
+    username, countdown_time = intro()
+    new_user = User(username)
+    
     
 
 if __name__ == "__main__":

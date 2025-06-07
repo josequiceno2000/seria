@@ -8,3 +8,5 @@ def countdown(seconds: int):
         time.sleep(1)
         seconds -= 1
     print("Time's up!")
+
+

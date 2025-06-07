@@ -32,6 +32,9 @@ def intro() -> int:
     print("A bitterly addictive game of popularity ranking based on Instagram follower counts.".center(100))
     print()
     print("The data is based on Instagram counts from June of 2025.".center(100))
-    
+
+    print()
+    username = input("Enter your name:\n> ")
+
     countdown_time = classic_or_beat_the_clock()
-    return countdown_time
+    return username, countdown_time

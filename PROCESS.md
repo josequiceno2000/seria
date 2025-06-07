@@ -37,4 +37,24 @@
 0. ~~Create round.py file~~ ✔
 1. ~~Add default function for clock~~ ✔
 2. ~~Connect to main.py~~ ✔
+### play round
+0. Get VS ASCII art
+1. Define play_round function with default parameters
+2. Select two random entries from data
+3. Print out compare statement for A based on name, description and country
+4. Print out VS ASCII art
+5. Print out compare statement for A based on name, description and country
+6. Ask user to select which has more followers
+7. Incorporate the countdown
+8. If user is right:
+    a. increase score
+    b. print right statement with their current score
+    c. set the more popular one to be the A comparison
+    d. play another round with A 
+9. If user is wrong or runs out of time:
+    a. record their score
+    b. print out wrong statement with final score
+    c. Allow user to play again, view high scores, or quit
+
+
 
